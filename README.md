@@ -1,2 +1,2 @@
 # OverLap
-A simple mac app for teaching my wife, shi is learning Objective-C
+A simple mac app for teaching my wife, she is learning Objective-C
